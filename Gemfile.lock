@@ -21,7 +21,7 @@ GEM
       jekyll (~> 3.3)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
-    jekyll-theme-lanyon (1.0.0)
+    jekyll-theme-hyde (2.0.0)
       jekyll (~> 3.3)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
@@ -47,7 +47,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (= 3.4.0)
   jekyll-feed (~> 0.6)
-  jekyll-theme-lanyon
+  jekyll-theme-hyde
 
 RUBY VERSION
    ruby 2.2.4p230
