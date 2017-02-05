@@ -6,6 +6,11 @@ dependencies:
   override:
     - bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
     - bundle exec jekyll build
+
+test:
+  override:
+    - echo "If you're happy and you know it clap your hands!!!"
+
 deployment:
   production:
     branch: master
