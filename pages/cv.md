@@ -4,47 +4,100 @@ permalink: /cv/
 ---
 
 ### Education 
-2013-Today &nbsp;&nbsp;&nbsp; PhD student in the Institute of Theoretical Physics, ETH-Zurich 
 
-2011-2012	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MSc in Computer Science, Tel-Aviv University<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Avg. grade of 94)
 
-2007-2010	&nbsp;&nbsp;&nbsp;&nbsp; BSc in Physics and Computer Science, Tel-Aviv University <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Avg. grade of 95 in CS and 90 in Physics, Magna Cum Laude) 
+<table>
+<tr>
+<td>2013-Today</td>
+<td>PhD student in the Institute of Theoretical Physics, ETH-Zurich</td>
+</tr>
+<tr>
+<td>2011-2012</td>
+<td>MSc in Computer Science, Tel-Aviv University <br/> (Avg. grade of 94)</td>
+</tr>
+<tr>
+<td>2007-2010</td>
+<td>BSc in Physics and Computer Science, Tel-Aviv University <br/> (Avg. grade of 95 in CS and 90 in Physics, Magna Cum Laude) </td>
+</tr>
+<tr>
+<td>2000-2004</td>
+<td>Hagimnasia Ha’ivrit High School <br/> (Advanced placement in Mathematics, Physics, Electronics and English) </td>
+</tr>
+</table>
 
-2000-2004 &nbsp;&nbsp;&nbsp;	Hagimnasia Ha’ivrit High School <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Advanced placement in Mathematics, Physics, Electronics and English)
 
 
 ### Awards & Recognitions
-2016	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Best Student Paper Award, QCrypt16
+<table>
+<tr>
+<td>2016</td>
+<td>Best Student Paper Award, QCrypt16</td>
+</tr>
+<tr>
+<td>2013-2015</td>
+<td>Best Poster Award, QCrypt13, QIP14, and QIP15</td>
+</tr>
+<tr>
+<td>2009,2011</td>
+<td>Special Award of Excellence, Department of Computer Science, Tel-Aviv University </td>
+</tr>
+<tr>
+<td>2010</td>
+<td>Deans List, Tel-Aviv University </td>
+</tr>
+<tr>
+<td>2009,2010</td>
+<td>The Memorial Day Award of Excellence, Department of Physics, Tel-Aviv University </td>
+</tr>
+</table>
 
-2013-2015	&nbsp;&nbsp;&nbsp; Best Poster Award, QCrypt13, QIP14, and QIP15
+### Research 
 
-2009,2011	&nbsp;&nbsp;&nbsp;&nbsp; Special Award of Excellence, Department of Computer Science, Tel-Aviv University
+<table>
+<tr>
+<td>2013-Today</td>
+<td>PhD student in quantum information theory <br/> Under the supervision of Prof. Renato Renner</td>
+</tr>
+<tr>
+<td>2011-2012</td>
+<td>Master thesis in quantum cryptography <br/>Privacy amplification against non-signalling adversaries <br/> Under the supervision of Prof. Amnon Ta-Shma</td>
+</tr>
+<tr>
+<td>2009</td>
+<td>Summer project for excellent students  <br/> Development of numerical simulations describing the chemical evolution of galaxies <br/> Under the supervision of Prof. Ariel Sternberg </td>
+</tr>
+</table>
 
-2010 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deans List, Tel-Aviv University
+See list of papers and selected talks.
 
-2009,2010 &nbsp;&nbsp;&nbsp; The Memorial Day Award of Excellence, Department of Physics, Tel-Aviv University
+### Teaching
 
-### Teaching & Research
-2013-Today	&nbsp;&nbsp;&nbsp; PhD student in quantum information theory. Under the supervision of Prof. Renato Renner
+<table>
+<tr>
+<td>2014-Today</td>
+<td>Supervision and assistant to Master students working on research projects, ETH-Zurich</td>
+</tr>
+<tr>
+<td>2013-Today</td>
+<td>Teaching assistant, Department of Physics, ETH-Zurich</td>
+</tr>
+<tr>
+<td>2011-2012</td>
+<td>Teaching assistant, Department of Computer Science, Tel-Aviv University </td>
+</tr>
+</table>
 
-2014-Today &nbsp;&nbsp;&nbsp;	Supervision and assistant to Master students working on research projects in the QIT group, ETH-Zurich
 
-2013-Today	&nbsp;&nbsp;&nbsp; Teaching assistant, Department of Physics, ETH-Zurich
-
-2011-2012	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teaching assistant, Department of Computer Science, Tel-Aviv University
-
-2011-2012	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Master thesis in quantum information theory & cryptography (privacy amplification against non-signalling adversaries). Under the supervision of Prof. Amnon Ta-Shma
-
-2009	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Summer project for excellent students (development of numerical simulations describing the chemical evolution of galaxies). Under the supervision of Prof. Ariel Sternberg
 
 ### Professional Experience
-2007-2009	&nbsp;&nbsp;&nbsp; Programmer at Compedia Ltd. <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Game development, Internal Management System, Research of new technologies
-          
-2004-2006	&nbsp;&nbsp; Sargent, School of Software Professions, Israel Defence Force<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senior instructor in advanced programming classes<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Personal tutor to new instructors<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Development of classes’ materials<br/>
+
+<table>
+<tr>
+<td>2007-2009</td>
+<td>Programmer at Compedia Ltd. <br/> Game development, Internal Management System, Research of new technologies</td>
+</tr>
+<tr>
+<td>2004-2006</td>
+<td>Sargent, School of Software Professions, Israel Defence Force<br/>Senior instructor in advanced programming classes<br/>Personal tutor to new instructors<br/>Development of classes’ materials</td>
+</tr>
+</table>
