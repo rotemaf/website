@@ -28,11 +28,11 @@ Trustworthy quantum information (invited talk) <br/>
 Ann Arbor, July 2, 2015. <br/>
 [Video](https://www.youtube.com/watch?v=6OME6EPJeP4)
 
-** Non-signalling parallel repetition using de Finetti reduction** <br/>
+**Non-signalling parallel repetition using de Finetti reduction** <br/>
 QIS seminar, MIT <br/>
 Cambridge, June 23, 2015.
 
-** de Finetti reductions in the context of non-local games** <br/>
+**de Finetti reductions in the context of non-local games** <br/>
 Randomness in quantum physics and beyond (contributed talk) <br/>
 Barcelona, May 6, 2015.
 
