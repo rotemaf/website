@@ -13,3 +13,8 @@ body.overrides td {
    vertical-align: top;
    text-align: left;
 }
+
+body.overrides tbody tr:nth-child(odd) td,
+body.overrides tbody tr:nth-child(odd) th {
+  background-color: white;
+}
