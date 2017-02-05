@@ -5,3 +5,9 @@ body.overrides .sidebar-about h1 {
   font-family: "Abril Fatface", serif;
   font-size: 1.2rem;
 }
+
+table, th, td {
+   border: 0px solid black;
+   vertical-align: top;
+   text-align: left;
+}
