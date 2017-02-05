@@ -2,6 +2,10 @@ machine:
   ruby:
     version: 2.2.4
 
+dependencies:
+  override:
+    - bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
+    - jekyll build
 deployment:
   production:
     branch: master
