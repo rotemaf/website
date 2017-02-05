@@ -13,7 +13,7 @@ rotema@itp.phys.ethz.ch
 
 Institut für Theoretische Physik
 
-HIT K33.3
+[HIT](http://www.mapsearch.ethz.ch/map.do;msSessionid=SxGnYWJQLzk3szGcjYfyG4qFKR2hTdhJhQJ0pTVnjMzn15MRsL0J!1762351299?gebaeudeMap=HIT&farbcode=c000&lang=de) [K33.3](http://www.rauminfo.ethz.ch/Rauminfo/grundrissplan.gif?gebaeude=HIT&geschoss=K&raumNr=33.3&)
 
 Wolfgang-Pauli-Str. 27
 
