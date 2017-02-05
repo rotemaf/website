@@ -16,21 +16,21 @@ Presented at QCrypt16 and QIP17.
 
 **Quantum-proof multi-source randomness extractors in the Markov model** <br/>
 with [Christopher Portmann][christopher_web] and [Volkher B. Scholz][volkher_web]. <br/>
-11th Conference on the Theory of Quantum Computation, Communication and Cryptography (TQC 2016), LIPIcs:2016:6683, September 2016. [Published version](http://drops.dagstuhl.de/opus/volltexte/2016/6683/pdf/LIPIcs-TQC-2016-2.pdf). <br/>
+11th Conference on the Theory of Quantum Computation, Communication and Cryptography (TQC 2016), LIPIcs:2016:6683, September 2016. [Published version](http://drops.dagstuhl.de/opus/volltexte/2016/6683/pdf/LIPIcs-TQC-2016-2.pdf). [arXiv:1510.06743](https://arxiv.org/abs/1510.06743). <br/>
 Presented at QIP16 and QCrypt16.
 
 **Non-signalling parallel repetition using de Finetti reductions** <br/>
 with [Renato Renner][renato_web] and [Thomas Vidick][thomas_web].<br/>
-IEEE Transactions on Information Theory, Issue: 99, January 2016. [Published version](http://ieeexplore.ieee.org/document/7377091/)
+IEEE Transactions on Information Theory, Issue: 99, January 2016. [Published version](http://ieeexplore.ieee.org/document/7377091/). [arXiv:1411.1582](https://arxiv.org/abs/1411.1582).
 
 **de Finetti reductions for correlations** <br/>
 with [Renato Renner][renato_web]. <br/>
-J. Math. Phys. 56, 052203, May 2015. [Published version](http://aip.scitation.org/doi/abs/10.1063/1.4921341).
+J. Math. Phys. 56, 052203, May 2015. [Published version](http://aip.scitation.org/doi/abs/10.1063/1.4921341). [arXiv:1308.0312](https://arxiv.org/abs/1308.0312).
 
 
 **Limits of privacy amplification against non-signalling memory attacks** <br/>
 with [Amnon Ta-Shma][amnon_web]. <br/> 
-Phys. Rev. A 86, 062333, December 2012. [Published version](http://journals.aps.org/pra/abstract/10.1103/PhysRevA.86.062333). <br/>
+Phys. Rev. A 86, 062333, December 2012. [Published version](http://journals.aps.org/pra/abstract/10.1103/PhysRevA.86.062333). [arXiv:1211.1125](https://arxiv.org/abs/1211.1125). <br/>
 Presented at QCrypt13.
 
 **Towards the impossibility of non-signalling privacy amplification from time-like ordering constraints** <br/>
