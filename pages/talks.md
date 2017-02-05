@@ -18,8 +18,9 @@ Washington DC, September 15, 2016. <br/>
 [Video](https://www.youtube.com/watch?v=CloEUzNqXWs&feature=youtu.be&list=PLUz_4vZOI0H0nfczvYk2C_UbE_BMs8cpY)
 
 **Simple and tight device-independent security proofs** <br/>
-QCrypt 2016 (contributed talk). Awarded the *"Best Student Paper Award”* of the conference. <br/>
+QCrypt 2016 (contributed talk) <br/>
 Washington DC, September 12, 2016. <br/>
+Awarded the *"Best Student Paper Award”* of the conference. <br/>
 [Video](https://www.youtube.com/watch?v=JWEdZ16OyWE&feature=youtu.be&list=PLUz_4vZOI0H0nfczvYk2C_UbE_BMs8cpY) 
 
 
