@@ -68,7 +68,7 @@ permalink: /cv/
 </tr>
 </table>
 
-See list of papers and selected talks.
+**See list of [papers](/research/) and [selected talks](/talks/).**
 
 ### Teaching
 
