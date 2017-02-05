@@ -1,25 +1,50 @@
 ---
-title: Talks
+title: Selected talks
 permalink: /talks/
 ---
 
-Device-independent quantum cryptography, QSIT (quantum science and technology) general meeting, Arosa, February 2, 2017.
+**Device-independent quantum cryptography** <br/>
+QSIT (quantum science and technology) general meeting <br/>
+Arosa, February 2, 2017.
 
-Entropy accumulation in device-independent protocols (*plenary talk*), QIP 2017, Seattle, January 19, 2017. [video](https://www.youtube.com/watch?v=4rwA_2aLnLc)
+**Entropy accumulation in device-independent protocols** <br/> 
+QIP 2017 (plenary talk) <br/>
+Seattle, January 19, 2017. <br/>
+[Video](https://www.youtube.com/watch?v=4rwA_2aLnLc)
 
-Quantum-proof multi-source randomness extractors in the Markov model (*contributed talk*), QCrypt 2016, Washington DC, September 15, 2016. [video](https://www.youtube.com/watch?v=CloEUzNqXWs&feature=youtu.be&list=PLUz_4vZOI0H0nfczvYk2C_UbE_BMs8cpY)
+**Quantum-proof multi-source randomness extractors in the Markov model** <br/>
+QCrypt 2016 (contributed talk) <br/>
+Washington DC, September 15, 2016. <br/>
+[Video](https://www.youtube.com/watch?v=CloEUzNqXWs&feature=youtu.be&list=PLUz_4vZOI0H0nfczvYk2C_UbE_BMs8cpY)
 
-Simple and tight device-independent security proofs (*contributed talk*), QCrypt 2016, Washington DC, September 12, 2016. [video](https://www.youtube.com/watch?v=JWEdZ16OyWE&feature=youtu.be&list=PLUz_4vZOI0H0nfczvYk2C_UbE_BMs8cpY) <br/>
-Awarded the *"Best Student Paper Award”* of the conference.
+**Simple and tight device-independent security proofs** <br/>
+QCrypt 2016 (contributed talk). Awarded the *"Best Student Paper Award”* of the conference. <br/>
+Washington DC, September 12, 2016. <br/>
+[Video](https://www.youtube.com/watch?v=JWEdZ16OyWE&feature=youtu.be&list=PLUz_4vZOI0H0nfczvYk2C_UbE_BMs8cpY) 
 
-de Finetti reductions in the context of non-local games (*invited talk*), trustworthy quantum information, Ann Arbor, July 2, 2015. [video](https://www.youtube.com/watch?v=6OME6EPJeP4)
 
-Non-signalling parallel repetition using de Finetti reduction, QIS seminar, MIT, Cambridge, June 23, 2015.
+**de Finetti reductions in the context of non-local games** <br/>
+Trustworthy quantum information (invited talk) <br/>
+Ann Arbor, July 2, 2015. <br/>
+[Video](https://www.youtube.com/watch?v=6OME6EPJeP4)
 
-de Finetti reductions in the context of non-local games (*contributed talk*), randomness in quantum physics and beyond, Barcelona, May 6, 2015.
+** Non-signalling parallel repetition using de Finetti reduction** <br/>
+QIS seminar, MIT <br/>
+Cambridge, June 23, 2015.
 
-Non-signalling parallel repetition using de Finetti reduction (*contributed talk*), ISITS15, Lugano, May 3, 2015.
+** de Finetti reductions in the context of non-local games** <br/>
+Randomness in quantum physics and beyond (contributed talk) <br/>
+Barcelona, May 6, 2015.
 
-de Finetti theorems: quantum and beyond, IQIM seminar, Caltech, Pasadena, June 17, 2014.
+**Non-signalling parallel repetition using de Finetti reduction**  <br/>
+ISITS15 (contributed talk) <br/>
+Lugano, May 3, 2015.
 
-Limits of privacy amplification against non-signalling memory attacks (*contributed talk*), QCrypt 2013, Waterloo, August 7, 2013. [video](https://www.youtube.com/watch?v=vXUHCNzP8Pc)
+**de Finetti theorems: quantum and beyond** <br/>
+IQIM seminar, Caltech <br/>
+Pasadena, June 17, 2014.
+
+**Limits of privacy amplification against non-signalling memory attacks** <br/>
+QCrypt 2013 (contributed talk)<br/>
+Waterloo, August 7, 2013. <br/>
+[Video](https://www.youtube.com/watch?v=vXUHCNzP8Pc)
