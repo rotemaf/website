@@ -19,7 +19,7 @@ with [Christopher Portmann][christopher_web] and [Volkher B. Scholz][volkher_web
 11th Conference on the Theory of Quantum Computation, Communication and Cryptography (TQC 2016), LIPIcs:2016:6683, September 2016. [Published version](http://drops.dagstuhl.de/opus/volltexte/2016/6683/pdf/LIPIcs-TQC-2016-2.pdf). <br/>
 Presented at QIP16 and QCrypt16.
 
-**Non-signalling parallel repetition using de Finetti reductions** </br>
+**Non-signalling parallel repetition using de Finetti reductions** <br/>
 with [Renato Renner][renato_web] and [Thomas Vidick][thomas_web].<br/>
 IEEE Transactions on Information Theory, Issue: 99, January 2016. [Published version](http://ieeexplore.ieee.org/document/7377091/)
 
