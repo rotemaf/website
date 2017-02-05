@@ -7,5 +7,8 @@ page:
   author_profile: true
   sidebar: true
 ---
+# About
 
-I am what I am?
+I am a PhD student in the [Quantum Information Theory group](http://www.qit.ethz.ch/) at the [Institute of Theoretical Physics](http://www.itp.phys.ethz.ch/), [ETH Zurich](https://www.ethz.ch/en.html).
+
+My interest lies in the interface between quantum physics and theoretical computer science. My current focus is mainly on Device-independent Quantum Cryptography.
