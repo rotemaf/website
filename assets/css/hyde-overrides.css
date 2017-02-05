@@ -6,7 +6,9 @@ body.overrides .sidebar-about h1 {
   font-size: 1.2rem;
 }
 
-table, th, td {
+body.overrides table,
+body.overrides th,
+body.overrides td {
    border: 0px solid black;
    vertical-align: top;
    text-align: left;
