@@ -3,8 +3,7 @@ title: Research
 permalink: /research/
 ---
 
-[arXiv profile](https://arxiv.org/find/quant-ph/1/au:+Arnon_Friedman_R/0/1/0/all/0/1)
-
+[arXiv profile](https://arxiv.org/find/quant-ph/1/au:+Arnon_Friedman_R/0/1/0/all/0/1) <br/>
 [Google Scholar profile](https://scholar.google.com/citations?user=OxHtebMAAAAJ&hl=en)
 
 ### Papers
