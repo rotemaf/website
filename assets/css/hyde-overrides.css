@@ -9,6 +9,7 @@ body.overrides .sidebar-about h2 {
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
+  font-size: 38px;
 }
 
 body.overrides table,
