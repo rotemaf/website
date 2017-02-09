@@ -18,3 +18,8 @@ body.overrides tbody tr:nth-child(odd) td,
 body.overrides tbody tr:nth-child(odd) th {
   background-color: white;
 }
+
+body.overrides td.date {
+  white-space: nowrap;
+  color: gray;
+}
