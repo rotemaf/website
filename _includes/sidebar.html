@@ -1,16 +1,16 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-     
- 
+
+
           <h1>
             {{ site.title | escape }}
           </h1>
           <h2>
            {{ site.title2 | escape }}
           </h2>
-      
-      
+
+
       <p class="lead">{{ site.description }}</p>
     </div>
 
@@ -21,9 +21,9 @@
       <a class="sidebar-nav-item{% if page.url == /talks/ %} active{% endif %}" href="/talks/">Talks</a>
       <a class="sidebar-nav-item{% if page.url == /videotalks/ %} active{% endif %}" href="/videotalks/">Recorded talks</a>
       <a class="sidebar-nav-item{% if page.url == /cv/ %} active{% endif %}" href="/cv/">CV</a>
-      <a class="sidebar-nav-item{% if page.url == /contact/ %} active{% endif %}" href="/contact/">Contact</a>    
+      <a class="sidebar-nav-item{% if page.url == /contact/ %} active{% endif %}" href="/contact/">Contact</a>
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p class="copyright-notice">&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>

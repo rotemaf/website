@@ -30,3 +30,18 @@ body.overrides td.date {
   white-space: nowrap;
   color: gray;
 }
+
+@media (min-width: 48em) {
+  body.overrides .sidebar-sticky {
+    position: absolute;
+    right:  1rem;
+    top: 1rem;
+    bottom: 1rem;
+    left:   1rem;
+  }
+}
+
+.copyright-notice {
+  position: absolute;
+  bottom: 0;
+}
