@@ -5,10 +5,10 @@ permalink: /cv/
 
 [Download CV](/assets/Rotem_CV.pdf)
 
-### Education 
-
-
 <table>
+
+<td colspan="2"> <h3> Education </h3> </td>
+
 <tr>
 <td class="date">2013-Today</td>
 <td>PhD student in the Institute of Theoretical Physics, ETH-Zurich</td>
@@ -25,12 +25,10 @@ permalink: /cv/
 <td class="date">2000-2004</td>
 <td>Hagimnasia Ha’ivrit High School <br/> (Advanced placement in Mathematics, Physics, Electronics and English) </td>
 </tr>
-</table>
 
 
+<td colspan="2"> <h3> Awards and Recognitions </h3> </td>
 
-### Awards & Recognitions
-<table>
 <tr>
 <td class="date">2016</td>
 <td>Best Student Paper Award, QCrypt16</td>
@@ -51,11 +49,9 @@ permalink: /cv/
 <td class="date">2009,2010</td>
 <td>The Memorial Day Award of Excellence, Department of Physics, Tel-Aviv University </td>
 </tr>
-</table>
 
-### Research 
+<td colspan="2"> <h3> Research </h3> </td>
 
-<table>
 <tr>
 <td class="date">2013-Today</td>
 <td>PhD student in quantum information theory <br/> Under the supervision of Prof. Renato Renner</td>
@@ -68,13 +64,13 @@ permalink: /cv/
 <td class="date">2009</td>
 <td>Summer project for excellent students  <br/> Development of numerical simulations describing the chemical evolution of galaxies <br/> Under the supervision of Prof. Ariel Sternberg </td>
 </tr>
-</table>
 
-**See list of [papers](/research/) and [selected talks](/talks/).**
+<tr>
+<td colspan="2"> <b> See list of <a href="/research/">papers</a> and <a href="/talks/">selected talks</a>. </b> </td> 
+</tr>
 
-### Teaching
+<td colspan="2"> <h3> Teaching </h3> </td>
 
-<table>
 <tr>
 <td class="date">2014-Today</td>
 <td>Supervision and assistant to Master students working on research projects, ETH-Zurich</td>
@@ -87,20 +83,19 @@ permalink: /cv/
 <td class="date">2011-2012</td>
 <td>Teaching assistant, Department of Computer Science, Tel-Aviv University </td>
 </tr>
-</table>
 
-### Committees 
 
-<table>
+<td colspan="2"> <h3> Committees </h3> </td>
+
+
 <tr>
-<td class="date">2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td class="date">2017</td>
 <td>Program committee member QCrypt17</td>
 </tr>
-</table>
 
-### Professional Experience
+<td colspan="2"> <h3> Professional Experience </h3> </td>
 
-<table>
+
 <tr>
 <td class="date">2007-2009</td>
 <td>Programmer at Compedia Ltd. <br/> Game development, Internal Management System, Research of new technologies</td>
