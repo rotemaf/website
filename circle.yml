@@ -15,4 +15,4 @@ deployment:
   production:
     branch: master
     commands:
-      - aws s3 sync _site/ s3://rotemaf.info/ --delete
+      - aws s3 sync _site/ s3://rotemaf.info/ --delete --cache-control "public, max-age=30"
