@@ -39,6 +39,15 @@ body.overrides td.date {
     bottom: 1rem;
     left:   1rem;
   }
+
+  body.overrides .content {
+    max-width: 48rem;
+  }
+}
+
+
+body.overrides img {
+  display: inline-block;
 }
 
 .copyright-notice {
