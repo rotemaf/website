@@ -89,7 +89,14 @@ permalink: /cv/
 </tr>
 </table>
 
+### Committees 
 
+<table>
+<tr>
+<td class="date">2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>Program committee member QCrypt17</td>
+</tr>
+</table>
 
 ### Professional Experience
 
