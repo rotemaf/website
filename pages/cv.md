@@ -3,6 +3,8 @@ title: CV
 permalink: /cv/
 ---
 
+[Download CV](/assets/Rotem_CV.pdf)
+
 ### Education 
 
 
