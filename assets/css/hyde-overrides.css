@@ -49,3 +49,8 @@ body.overrides td.date {
 body.overrides img {
   display: inline-block;
 }
+
+body.overrides footer {
+  margin-left: 22rem;
+  margin-right: 4rem;
+}
