@@ -3,27 +3,25 @@ title: Recorded talks
 permalink: /videotalks/
 ---
 
-**Entropy accumulation in device-independent protocols** @ QIP 2017 
+### Entropy accumulation in device-independent protocols @ QIP 2017
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=4rwA_2aLnLc" target="_blank"><img src="//img.youtube.com/vi/4rwA_2aLnLc/0.jpg"  
-width="240" height="180" border="2"/></a>
+{% youtube "https://www.youtube.com/watch?v=4rwA_2aLnLc" %}
 
-**Quantum-proof multi-source randomness extractors in the Markov model** @ QCrypt 2016 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=CloEUzNqXWs" target="_blank"><img src="//img.youtube.com/vi/CloEUzNqXWs/0.jpg" 
-width="240" height="180" border="2"/></a>
+### Quantum-proof multi-source randomness extractors in the Markov model @ QCrypt 2016
 
-**Simple and tight device-independent security proofs** @ QCrypt 2016
+{% youtube "https://www.youtube.com/watch?v=CloEUzNqXWs" %}
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=JWEdZ16OyWE" target="_blank"><img src="//img.youtube.com/vi/JWEdZ16OyWE/0.jpg" 
-width="240" height="180" border="2"/></a>
 
-**de Finetti reductions in the context of non-local games** @ Trustworthy quantum information 2015
+### Simple and tight device-independent security proofs @ QCrypt 2016
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=6OME6EPJeP4" target="_blank"><img src="//img.youtube.com/vi/6OME6EPJeP4/0.jpg" 
-width="240" height="180" border="2"/></a>
+{% youtube "https://www.youtube.com/watch?v=JWEdZ16OyWE" %}
 
-**Limits of privacy amplification against non-signalling memory attacks** @ QCrypt 2013
+### de Finetti reductions in the context of non-local games @ Trustworthy quantum information 2015
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=vXUHCNzP8Pc" target="_blank"><img src="//img.youtube.com/vi/vXUHCNzP8Pc/0.jpg" 
-width="240" height="180" border="2"/></a>
+{% youtube "https://www.youtube.com/watch?v=6OME6EPJeP4" %}
+
+
+### Limits of privacy amplification against non-signalling memory attacks @ QCrypt 2013
+
+{% youtube "https://www.youtube.com/watch?v=vXUHCNzP8Pc" %}

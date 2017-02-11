@@ -27,6 +27,7 @@ markdown: kramdown
 theme: jekyll-theme-hyde
 gems:
   - jekyll-feed
+  - jekyll-youtube
 exclude:
   - Gemfile
   - Gemfile.lock
