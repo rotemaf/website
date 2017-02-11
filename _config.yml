@@ -39,6 +39,9 @@ author:
   email  : # optional
   uri    : "http://your-site.com"
 
+# Google Analytics Account
+google_analytics: UA-16715886-1
+
 defaults:
   - scope:
       path: "pages"
