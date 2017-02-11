@@ -7,7 +7,7 @@ page:
   author_profile: true
   sidebar: true
 ---
-# About
+# About me
 
 <table style="width:100%">
   <tr>
