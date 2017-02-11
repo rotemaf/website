@@ -40,7 +40,7 @@ author:
   uri    : "http://your-site.com"
 
 # Google Analytics Account
-google_analytics: UA-16715886-1
+google_analytics: UA-91755176-1
 
 defaults:
   - scope:
