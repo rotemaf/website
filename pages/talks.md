@@ -52,3 +52,7 @@ Pasadena, June 17, 2014.<br/>
 QCrypt 2013 (contributed talk)<br/>
 Waterloo, August 7, 2013. <br/>
 [Video](https://www.youtube.com/watch?v=vXUHCNzP8Pc); [Slides](/assets/slides/QCrypt13.pdf)
+
+
+<br/><br>
+I thank my father, Sheri Arnon, for the artistic and graphical help when preparing all of my slides! 
