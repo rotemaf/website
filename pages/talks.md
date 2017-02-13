@@ -55,4 +55,4 @@ Waterloo, August 7, 2013. <br/>
 
 
 <br/><br>
-I thank my father, Sheri Arnon, for the artistic and graphical help when preparing all of my slides! 
+All illustrations and infographics in the slides were done by Asher Arnon. 
