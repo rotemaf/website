@@ -14,7 +14,7 @@ page:
     <td width="25%" height="25%"><img src="/assets/pictures/ETH_web_Arnon.jpg" ></td>
     <td>I am a PhD student in the <a href="http://www.qit.ethz.ch/">Quantum Information Theory group</a> at the <a href="http://www.itp.phys.ethz.ch/">Institute of Theoretical Physics</a>, <a href="https://www.ethz.ch/en.html">ETH Zurich</a>.
 <br/><br/>
-My field of interest is in the interface between quantum physics and theoretical computer science. My current research is focused mainly on Device-independent Quantum Cryptography.
+My field of interest lies in the interface between quantum physics and theoretical computer science. My current research is focused mainly on Device-independent Quantum Cryptography. 
 <br/><br/>
 My CV is available <a href="/cv/">here</a>.
 </td> 
