@@ -55,4 +55,4 @@ Waterloo, August 7, 2013. <br/>
 
 
 <br/><br>
-All illustrations and infographics in the slides were done by Asher Arnon. 
+Thanks to Asher Arnon for the illustrations and infographics in the slides. 
