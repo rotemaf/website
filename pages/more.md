@@ -4,7 +4,7 @@ permalink: /more/
 ---
 
 ### Quotes
-Instead of adding some deep quote underneath my photo, here are some motivating quotes I came across with during my studies so far:
+Here are some motivating quotes I came across with during my studies so far:
 
 "If I have 300 ideas in a year and just one turns out to work I am satisfied." <font color="gray"> -- Alfred Nobel</font>
 
