@@ -8,6 +8,10 @@ permalink: /research/
 
 ### Papers
 
+**Device-independent randomness amplification and privatization**  <br/>
+with Max Kessler. <br />
+[arXiv:1705.04148](https://arxiv.org/abs/1705.04148), May 2017. <br />
+
 **Simple and tight device-independent security proofs**  <br/>
 with [Renato Renner][renato_web] and [Thomas Vidick][thomas_web]. <br />
 [arXiv:1607.01797](https://arxiv.org/abs/1607.01797), July 2016. <br />
@@ -39,7 +43,7 @@ with [Esther Hänggi][esther_web] and [Amnon Ta-Shma][amnon_web].<br/>
 [//]: # (Collaborators websites)
 [renato_web]: http://www.itp.phys.ethz.ch/people/person-detail.html?persid=59275 
 [thomas_web]: http://users.cms.caltech.edu/~vidick/
-[christopher_web]: http://www.qit.ethz.ch/people/person-detail.html?persid=98933
+[christopher_web]: https://www.inf.ethz.ch/department/people/institutes/person-detail.html?persid=98933
 [volkher_web]: http://users.ugent.be/~vscholz/
 [amnon_web]: http://www.cs.tau.ac.il/~amnon/
 [esther_web]: http://www.estherhaenggi.com/
