@@ -3,6 +3,18 @@ title: Selected talks
 permalink: /talks/
 ---
 
+**Device-independent randomness amplification and privatization** <br/>
+Trustworthy quantum information (invited talk) <br/>
+Paris, June 19, 2017. <br/>
+
+**Device-independent randomness amplification and privatization** <br/>
+TCS seminar, Princeton <br/>
+New-Jersey, May 24, 2017.
+
+**Device-independent randomness amplification and privatization** <br/>
+CSAIL seminar, MIT <br/>
+Cambridge, May 23, 2017.
+
 **Device-independent quantum cryptography** <br/>
 QSIT (quantum science and technology) general meeting <br/>
 Arosa, February 2, 2017.<br/>
@@ -23,7 +35,6 @@ QCrypt 2016 (contributed talk) <br/>
 Washington DC, September 12, 2016. <br/>
 Awarded the *"Best Student Paper Award”* of the conference. <br/>
 [Video](https://www.youtube.com/watch?v=JWEdZ16OyWE&feature=youtu.be&list=PLUz_4vZOI0H0nfczvYk2C_UbE_BMs8cpY) 
-
 
 **de Finetti reductions in the context of non-local games** <br/>
 Trustworthy quantum information (invited talk) <br/>
