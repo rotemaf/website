@@ -8,8 +8,9 @@ Trustworthy quantum information (invited talk) <br/>
 Paris, June 19, 2017. <br/>
 
 **Device-independent randomness amplification and privatization** <br/>
-TCS seminar, Princeton <br/>
-New-Jersey, May 24, 2017.
+TCS theory lunch, Princeton <br/>
+New-Jersey, May 24, 2017. <br/>
+[Video](https://www.youtube.com/watch?v=IExc4pR40Ik)
 
 **Device-independent randomness amplification and privatization** <br/>
 CSAIL seminar, MIT <br/>
