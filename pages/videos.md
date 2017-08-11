@@ -3,6 +3,10 @@ title: Recorded talks
 permalink: /videotalks/
 ---
 
+### Device-independent randomness amplification and privatization @ Theory lunch Princeton 2017
+
+{% youtube "https://www.youtube.com/watch?v=IExc4pR40Ik" %}
+
 ### Entropy accumulation in device-independent protocols @ QIP 2017
 
 {% youtube "https://www.youtube.com/watch?v=4rwA_2aLnLc" %}
