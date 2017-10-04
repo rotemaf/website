@@ -11,6 +11,7 @@ permalink: /research/
 **Device-independent randomness amplification and privatization**  <br/>
 with Max Kessler. <br />
 [arXiv:1705.04148](https://arxiv.org/abs/1705.04148), May 2017. <br />
+Presented at QCrypt17.
 
 **Simple and tight device-independent security proofs**  <br/>
 with [Renato Renner][renato_web] and [Thomas Vidick][thomas_web]. <br />
