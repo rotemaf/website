@@ -4,6 +4,11 @@ permalink: /talks/
 ---
 
 **Device-independent randomness amplification and privatization** <br/>
+QCrypt 2017 (contributed talk) <br/>
+Cambridge, September 22, 2017. <br/>
+Awarded the *"Best Student Paper Award”* of the conference. <br/>
+
+**Device-independent randomness amplification and privatization** <br/>
 Trustworthy quantum information (invited talk) <br/>
 Paris, June 19, 2017. <br/>
 
