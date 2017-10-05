@@ -30,12 +30,8 @@ permalink: /cv/
 <td colspan="2"> <h3> Awards and Recognitions </h3> </td>
 
 <tr>
-<td class="date">2017</td>
-<td>Best Student Paper Award, QCrypt17</td>
-</tr>
-<tr>
-<td class="date">2016</td>
-<td>Best Student Paper Award, QCrypt16</td>
+<td class="date">2016,2017</td>
+<td>Best Student Paper Award, QCrypt16, QCrypt17</td>
 </tr>
 <tr>
 <td class="date">2013-2015</td>
@@ -94,8 +90,7 @@ permalink: /cv/
 
 <tr>
 <td class="date">2017</td>
-<td>Program committee member QIP18<br/>
-    Program committee member QCrypt17</td>
+<td>Program committee member QCrypt17, QIP18</td>
 </tr>
 
 <td colspan="2"> <h3> Professional Experience </h3> </td>
