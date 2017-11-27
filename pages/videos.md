@@ -3,6 +3,11 @@ title: Recorded talks
 permalink: /videotalks/
 ---
 
+### Device-independent randomness amplification and privatization @ QCrypt 2017
+
+{% youtube "https://www.youtube.com/watch?v=Z2lN-TlLUBE" %}
+
+
 ### Device-independent randomness amplification and privatization @ Theory lunch Princeton 2017
 
 {% youtube "https://www.youtube.com/watch?v=IExc4pR40Ik" %}
