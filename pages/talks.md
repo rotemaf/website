@@ -7,6 +7,7 @@ permalink: /talks/
 QCrypt 2017 (contributed talk) <br/>
 Cambridge, September 22, 2017. <br/>
 Awarded the *"Best Student Paper Award”* of the conference. <br/>
+[Video](https://www.youtube.com/watch?v=Z2lN-TlLUBE); [Slides](/assets/slides/QCrypt17.pdf)
 
 **Device-independent randomness amplification and privatization** <br/>
 Trustworthy quantum information (invited talk) <br/>
