@@ -8,6 +8,14 @@ permalink: /research/
 
 ### Papers
 
+**Device-independent certification of one-shot distillable entanglement**  <br/>
+with [Jean-Daniel Bancal][jd_web]. <br />
+[arXiv:1712.09369](https://arxiv.org/abs/1712.09369), December 2017. <br />
+
+**Noise-tolerant testing of high entanglement of formation**  <br/>
+with [Henry Yuen][henry_web]. <br />
+[arXiv:1712.09368](https://arxiv.org/abs/1712.09368), December 2017. <br />
+
 **Device-independent randomness amplification and privatization**  <br/>
 with Max Kessler. <br />
 [arXiv:1705.04148](https://arxiv.org/abs/1705.04148), May 2017. <br />
@@ -48,3 +56,5 @@ with [Esther Hänggi][esther_web] and [Amnon Ta-Shma][amnon_web].<br/>
 [volkher_web]: http://users.ugent.be/~vscholz/
 [amnon_web]: http://www.cs.tau.ac.il/~amnon/
 [esther_web]: http://www.estherhaenggi.com/
+[henry_web]: http://www.henryyuen.net/
+[jd_web]: https://qotg.physik.unibas.ch/pages/peopleJeanDaniel.htm
