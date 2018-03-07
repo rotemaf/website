@@ -8,6 +8,11 @@ permalink: /research/
 
 ### Papers
 
+**Practical device-independent quantum cryptography via entropy accumulation**  <br/>
+with [Frédéric Dupuis][fred_web], [Omar Fawzi][omar_web], [Renato Renner][renato_web] and [Thomas Vidick][thomas_web]. <br />
+Nature Communications 9, January 2018. [Published version](https://www.nature.com/articles/s41467-017-02307-4). <br />
+Short version of [arXiv:1607.01797](https://arxiv.org/abs/1607.01797). (Related [News & Views](https://www.nature.com/articles/nphys4346)).
+
 **Device-independent certification of one-shot distillable entanglement**  <br/>
 with [Jean-Daniel Bancal][jd_web]. <br />
 [arXiv:1712.09369](https://arxiv.org/abs/1712.09369), December 2017. <br />
@@ -58,3 +63,5 @@ with [Esther Hänggi][esther_web] and [Amnon Ta-Shma][amnon_web].<br/>
 [esther_web]: http://www.estherhaenggi.com/
 [henry_web]: http://www.henryyuen.net/
 [jd_web]: https://qotg.physik.unibas.ch/pages/peopleJeanDaniel.htm
+[fred_web]: https://members.loria.fr/FDupuis/
+[omar_web]: http://perso.ens-lyon.fr/omar.fawzi/
