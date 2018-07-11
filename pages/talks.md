@@ -2,6 +2,9 @@
 title: Selected talks
 permalink: /talks/
 ---
+**Entropy accumulation in the context of quantum key distribution** <br/>
+IQC's workshop on security proofs in QKD (invited talk) <br/>
+Waterloo, July 5, 2018. <br/>
 
 **Device-independent randomness amplification and privatization** <br/>
 QCrypt 2017 (contributed talk) <br/>
