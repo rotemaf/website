@@ -19,7 +19,9 @@ with [Jean-Daniel Bancal][jd_web]. <br />
 
 **Noise-tolerant testing of high entanglement of formation**  <br/>
 with [Henry Yuen][henry_web]. <br />
-[arXiv:1712.09368](https://arxiv.org/abs/1712.09368), December 2017. <br />
+International Colloquium of Automata, Languages, and Programming (ICALP), July 2018. 
+[Published version](http://drops.dagstuhl.de/opus/volltexte/2018/9015/pdf/LIPIcs-ICALP-2018-11.pdf).
+[arXiv:1712.09368](https://arxiv.org/abs/1712.09368). <br />
 
 **Device-independent randomness amplification and privatization**  <br/>
 with Max Kessler. <br />
@@ -33,7 +35,9 @@ Presented at QCrypt16 and QIP17.
 
 **Quantum-proof multi-source randomness extractors in the Markov model** <br/>
 with [Christopher Portmann][christopher_web] and [Volkher B. Scholz][volkher_web]. <br/>
-11th Conference on the Theory of Quantum Computation, Communication and Cryptography (TQC 2016), LIPIcs:2016:6683, September 2016. [Published version](http://drops.dagstuhl.de/opus/volltexte/2016/6683/pdf/LIPIcs-TQC-2016-2.pdf). [arXiv:1510.06743](https://arxiv.org/abs/1510.06743). <br/>
+11th Conference on the Theory of Quantum Computation, Communication and Cryptography (TQC 2016), LIPIcs:2016:6683, September 2016. 
+[Published version](http://drops.dagstuhl.de/opus/volltexte/2016/6683/pdf/LIPIcs-TQC-2016-2.pdf). 
+[arXiv:1510.06743](https://arxiv.org/abs/1510.06743). <br/>
 Presented at QIP16 and QCrypt16.
 
 **Non-signalling parallel repetition using de Finetti reductions** <br/>
