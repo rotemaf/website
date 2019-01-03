@@ -7,10 +7,16 @@ permalink: /cv/
 
 <table>
 
+<td colspan="2"> <h3> Appointments </h3> </td>
+<tr>
+<td class="date">2018-Today</td>
+<td>Postdoctoral researcher in the Computer Science Division, UC Berkeley</td>
+</tr>
+
 <td colspan="2"> <h3> Education </h3> </td>
 
 <tr>
-<td class="date">2013-Today</td>
+<td class="date">2013-2018</td>
 <td>PhD student in the Institute of Theoretical Physics, ETH-Zurich</td>
 </tr>
 <tr>
@@ -53,8 +59,12 @@ permalink: /cv/
 <td colspan="2"> <h3> Research </h3> </td>
 
 <tr>
-<td class="date">2013-Today</td>
-<td>PhD student in quantum information theory <br/> Under the supervision of Prof. Renato Renner</td>
+<td colspan="2"> <b> See list of <a href="/research/">papers</a> and <a href="/talks/">selected talks</a>. </b> </td> 
+</tr>
+
+<tr>
+<td class="date">2013-2018</td>
+<td>PhD student in quantum information theory <br/> <a href="https://arxiv.org/abs/1812.10922"> Reductions to IID in device-independent quantum information processing</a> <br/> Under the supervision of Prof. Renato Renner </td>
 </tr>
 <tr>
 <td class="date">2011-2012</td>
@@ -65,18 +75,16 @@ permalink: /cv/
 <td>Summer project for excellent students  <br/> Development of numerical simulations describing the chemical evolution of galaxies <br/> Under the supervision of Prof. Ariel Sternberg </td>
 </tr>
 
-<tr>
-<td colspan="2"> <b> See list of <a href="/research/">papers</a> and <a href="/talks/">selected talks</a>. </b> </td> 
-</tr>
+
 
 <td colspan="2"> <h3> Teaching </h3> </td>
 
 <tr>
-<td class="date">2014-Today</td>
+<td class="date">2014-2018</td>
 <td>Supervision and assistant to Master students working on research projects, ETH-Zurich</td>
 </tr>
 <tr>
-<td class="date">2013-Today</td>
+<td class="date">2013-2017</td>
 <td>Teaching assistant, Department of Physics, ETH-Zurich</td>
 </tr>
 <tr>
