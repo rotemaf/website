@@ -64,11 +64,11 @@ permalink: /cv/
 
 <tr>
 <td class="date">2013-2018</td>
-<td>PhD student in quantum information theory <br/> <a href="https://arxiv.org/abs/1812.10922"> Reductions to IID in device-independent quantum information processing</a> <br/> Under the supervision of Prof. Renato Renner </td>
+<td>PhD thesis: <a href="https://arxiv.org/abs/1812.10922"> Reductions to IID in device-independent quantum information processing</a> <br/> Under the supervision of Prof. Renato Renner </td>
 </tr>
 <tr>
 <td class="date">2011-2012</td>
-<td>Master thesis in quantum cryptography <br/>Privacy amplification against non-signalling adversaries <br/> Under the supervision of Prof. Amnon Ta-Shma</td>
+<td>Master thesis: Privacy amplification against non-signalling adversaries <br/> Under the supervision of Prof. Amnon Ta-Shma</td>
 </tr>
 <tr>
 <td class="date">2009</td>
