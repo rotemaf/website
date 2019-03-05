@@ -3,7 +3,7 @@ references:
   JOB_DEFAULTS: &JOB_DEFAULTS
     working_directory: &WORKING_DIRECTORY ~/website
     docker:
-      - image: circleci/ruby:2.6-node
+      - image: circleci/ruby:2.5-node
 
 jobs:
   build:
