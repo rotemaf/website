@@ -21,7 +21,8 @@ jobs:
 
       - run:
           name: This is where we run spellcheck, link checker, ...
-          command: echo If you're happy and you know it clap your hands!!!
+          command: |
+            echo "If you're happy and you know it clap your hands!!!"
 
       - persist_to_workspace:
           root: "."
