@@ -1,0 +1,29 @@
+version: 2
+jobs:
+  deploy:
+    working_directory: ~/website
+    docker:
+      - image: circleci/ruby:2.6-node
+    steps:
+      - checkout
+      - run:
+          name: Install dependencies using bundler
+          command: |
+            bundle check --path=vendor/bundle || \
+            bundle install --frozen --path=vendor/bundle --jobs=4 --retry=3
+      - run:
+          name: Build website using jekyll
+          command: JEKYLL_ENV=production bundle exec jekyll build
+
+      - run:
+          name: This is where we run spellcheck, link checker, ...
+          command: echo If you're happy and you know it clap your hands!!!
+
+      - deploy:
+          name: Deploy to S3
+          command: |
+            if [[ "$CIRCLE_BRANCH" == "master" ]]; then
+              aws s3 sync _site/ s3://rotemaf.info/ --delete --cache-control "public, max-age=30"
+            else
+              echo "Not master. Skipping deployment"
+            fi
