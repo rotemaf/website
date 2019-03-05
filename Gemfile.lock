@@ -3,8 +3,11 @@ GEM
   specs:
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
+    bundler-audit (0.6.1)
+      bundler (>= 1.2.0, < 3)
+      thor (~> 0.18)
     colorator (1.1.0)
-    ffi (1.9.17)
+    ffi (1.10.0)
     forwardable-extended (2.6.0)
     jekyll (3.4.0)
       addressable (~> 2.4)
@@ -42,18 +45,20 @@ GEM
     rouge (1.11.1)
     safe_yaml (1.0.4)
     sass (3.4.23)
+    thor (0.20.3)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler-audit
   jekyll (= 3.4.0)
   jekyll-feed (~> 0.6)
   jekyll-theme-hyde
   jekyll-youtube
 
 RUBY VERSION
-   ruby 2.2.4p230
+   ruby 2.5.1p57
 
 BUNDLED WITH
-   1.14.3
+   1.16.4
