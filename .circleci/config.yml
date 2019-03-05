@@ -1,38 +1,51 @@
-version: 2
+version: 2.1
 references:
   JOB_DEFAULTS: &JOB_DEFAULTS
     working_directory: &WORKING_DIRECTORY ~/website
     docker:
       - image: circleci/ruby:2.5-node
-
-jobs:
-  build:
-    <<: *JOB_DEFAULTS
+commands:
+  job_setup:
     steps:
       - checkout
+      - restore_cache:
+          keys:
+            - &BUNDLER_CACHE_KEY v1-bundler-cache-{{ checksum "Gemfile.lock" }}
+            - v1-bundler-cache
       - run:
           name: Install dependencies using bundler
           command: |
             bundle check --path=vendor/bundle || \
             bundle install --frozen --path=vendor/bundle --jobs=4 --retry=3
 
-      - run:
-          name: Check for vulnerabilities using bundler-audit
-          command: bundle exec bundle-audit check --update
-
+      - save_cache:
+          key: *BUNDLER_CACHE_KEY
+          paths:
+            - vendor/bundle
+jobs:
+  build:
+    <<: *JOB_DEFAULTS
+    steps:
+      - job_setup
       - run:
           name: Build website using jekyll
           command: JEKYLL_ENV=production bundle exec jekyll build
-
-      - run:
-          name: This is where we run spellcheck, link checker, ...
-          command: |
-            echo "If you're happy and you know it clap your hands!!!"
 
       - persist_to_workspace:
           root: "."
           paths:
             - _site
+  checks:
+    <<: *JOB_DEFAULTS
+    steps:
+      - job_setup
+      - run:
+          name: Check for vulnerabilities using bundler-audit
+          command: bundle exec bundle-audit check --update
+      - run:
+          name: This is where we run spellcheck, link checker, ...
+          command: |
+            echo "If you're happy and you know it clap your hands!!!"
   deploy:
     <<: *JOB_DEFAULTS
     steps:
@@ -43,18 +56,17 @@ jobs:
           environment:
             WORKSPACE_DIR: *WORKSPACE_DIR
           command: |
-            if [[ "$CIRCLE_BRANCH" == "master" ]]; then
-              cd "$WORKSPACE_DIR"
-              sudo apt-get -y -qq update
-              sudo apt-get -y -qq install awscli
-              aws s3 sync _site/ s3://rotemaf.info/ --delete --cache-control "public, max-age=30"
-            else
-              echo "Not master. Skipping deployment"
-            fi
+            cd "$WORKSPACE_DIR"
+            sudo apt-get -y -qq update
+            sudo apt-get -y -qq install awscli
+            aws s3 sync _site/ s3://rotemaf.info/ --delete --cache-control "public, max-age=30"
 workflows:
   version: 2
   release:
     jobs:
       - build
+      - checks:
+          requires: ["build"]
       - deploy:
           requires: ["build"]
+          filters: { branches: { only: master } }
