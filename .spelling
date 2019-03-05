@@ -1,0 +1,42 @@
+# markdown-spellcheck spelling configuration file
+# Format - lines begining # are comments
+# global dictionary is at the start, file overrides afterwards
+# one word per line, to define a file override use ' - filename'
+# where filename is relative to this configuration file
+
+Amnon
+Arbor
+Arnon
+Arosa
+arXiv
+Avg
+Bancal
+Compedia
+Cum
+Dupuis
+ETH-Zurich
+Fawzi
+Finetti
+Frédéric
+Ha’ivrit
+Hagimnasia
+Hänggi
+Laude
+LIPIcs
+Lugano
+Magna
+Math
+Portmann
+QCrypt
+QCrypt13
+QCrypt16
+QCrypt17
+QCrypt19
+Renner
+Scholz
+Sternberg
+Ta-Shma
+Tel-Aviv
+Vidick
+Volkher
+Yuen

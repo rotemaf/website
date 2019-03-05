@@ -51,9 +51,9 @@ jobs:
           name: Check for vulnerabilities using bundler-audit
           command: bundle exec bundle-audit check --update
       - run:
-          name: This is where we run spellcheck, link checker, ...
+          name: Run spell check
           command: |
-            echo "If you're happy and you know it clap your hands!!!"
+            npx -p markdown-spellcheck mdspell -a -n -r "index.md" "pages/*.md" || true
 
   deploy:
     <<: *JOB_DEFAULTS
