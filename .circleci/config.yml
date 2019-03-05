@@ -40,6 +40,8 @@ jobs:
           command: |
             if [[ "$CIRCLE_BRANCH" == "master" ]]; then
               cd "$WORKSPACE_DIR"
+              sudo apt-get -y -qq update
+              sudo apt-get -y -qq install awscli
               aws s3 sync _site/ s3://rotemaf.info/ --delete --cache-control "public, max-age=30"
             else
               echo "Not master. Skipping deployment"
