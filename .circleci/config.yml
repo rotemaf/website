@@ -15,6 +15,11 @@ jobs:
           command: |
             bundle check --path=vendor/bundle || \
             bundle install --frozen --path=vendor/bundle --jobs=4 --retry=3
+
+      - run:
+          name: Check for vulnerabilities using bundler-audit
+          command: bundle exec bundle-audit check --update
+
       - run:
           name: Build website using jekyll
           command: JEKYLL_ENV=production bundle exec jekyll build
