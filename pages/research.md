@@ -8,14 +8,20 @@ permalink: /research/
 
 ### Papers
 
+**Simple and tight device-independent security proofs**  <br/>
+with [Renato Renner][renato_web] and [Thomas Vidick][thomas_web]. <br />
+SIAM Journal on Computing, 48(1), 181–225, February 2019. [Published version](https://epubs.siam.org/doi/abs/10.1137/18M1174726).
+[arXiv:1607.01797](https://arxiv.org/abs/1607.01797). <br />
+Presented at QCrypt16 and QIP17.
+
+**Device-independent certification of one-shot distillable entanglement**  <br/>
+with [Jean-Daniel Bancal][jd_web]. <br />
+New Journal of Physics, January 2019. [Published version](https://iopscience.iop.org/article/10.1088/1367-2630/aafef6). [arXiv:1712.09369](https://arxiv.org/abs/1712.09369). <br />
+
 **Practical device-independent quantum cryptography via entropy accumulation**  <br/>
 with [Frédéric Dupuis][fred_web], [Omar Fawzi][omar_web], [Renato Renner][renato_web] and [Thomas Vidick][thomas_web]. <br />
 Nature Communications 9, January 2018. [Published version](https://www.nature.com/articles/s41467-017-02307-4). <br />
 Short version of [arXiv:1607.01797](https://arxiv.org/abs/1607.01797). (Related [News & Views](https://www.nature.com/articles/nphys4346)).
-
-**Device-independent certification of one-shot distillable entanglement**  <br/>
-with [Jean-Daniel Bancal][jd_web]. <br />
-[arXiv:1712.09369](https://arxiv.org/abs/1712.09369), December 2017. <br />
 
 **Noise-tolerant testing of high entanglement of formation**  <br/>
 with [Henry Yuen][henry_web]. <br />
@@ -27,11 +33,6 @@ International Colloquium of Automata, Languages, and Programming (ICALP), July 2
 with Max Kessler. <br />
 [arXiv:1705.04148](https://arxiv.org/abs/1705.04148), May 2017. <br />
 Presented at QCrypt17.
-
-**Simple and tight device-independent security proofs**  <br/>
-with [Renato Renner][renato_web] and [Thomas Vidick][thomas_web]. <br />
-[arXiv:1607.01797](https://arxiv.org/abs/1607.01797), July 2016. <br />
-Presented at QCrypt16 and QIP17.
 
 **Quantum-proof multi-source randomness extractors in the Markov model** <br/>
 with [Christopher Portmann][christopher_web] and [Volkher B. Scholz][volkher_web]. <br/>
