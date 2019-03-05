@@ -1,32 +1,36 @@
-version: 2.1
+version: 2.0
 references:
   JOB_DEFAULTS: &JOB_DEFAULTS
     working_directory: &WORKING_DIRECTORY ~/website
     docker:
       - image: circleci/ruby:2.5-node
-commands:
-  job_setup:
-    steps:
-      - checkout
-      - restore_cache:
-          keys:
-            - &BUNDLER_CACHE_KEY v1-bundler-cache-{{ checksum "Gemfile.lock" }}
-            - v1-bundler-cache
-      - run:
-          name: Install dependencies using bundler
-          command: |
-            bundle check --path=vendor/bundle || \
-            bundle install --frozen --path=vendor/bundle --jobs=4 --retry=3
 
-      - save_cache:
-          key: *BUNDLER_CACHE_KEY
-          paths:
-            - vendor/bundle
+  RESTORE_CACHE: &RESTORE_CACHE
+    restore_cache:
+      keys:
+        - &BUNDLER_CACHE_KEY v1-bundler-cache-{{ checksum "Gemfile.lock" }}
+        - v1-bundler-cache
+
+  SAVE_CACHE: &SAVE_CACHE
+    save_cache:
+      key: *BUNDLER_CACHE_KEY
+      paths:
+        - vendor/bundle
+  RUN_BUNDLE_INSTALL: &RUN_BUNDLE_INSTALL
+    run:
+      name: Install dependencies using bundler
+      command: |
+        bundle check --path=vendor/bundle || \
+        bundle install --frozen --path=vendor/bundle --jobs=4 --retry=3
+
 jobs:
   build:
     <<: *JOB_DEFAULTS
     steps:
-      - job_setup
+      - checkout
+      - *RESTORE_CACHE
+      - *RUN_BUNDLE_INSTALL
+      - *SAVE_CACHE
       - run:
           name: Build website using jekyll
           command: JEKYLL_ENV=production bundle exec jekyll build
@@ -35,10 +39,14 @@ jobs:
           root: "."
           paths:
             - _site
+
   checks:
     <<: *JOB_DEFAULTS
     steps:
-      - job_setup
+      - checkout
+      - *RESTORE_CACHE
+      - *RUN_BUNDLE_INSTALL
+      - *SAVE_CACHE
       - run:
           name: Check for vulnerabilities using bundler-audit
           command: bundle exec bundle-audit check --update
@@ -46,6 +54,7 @@ jobs:
           name: This is where we run spellcheck, link checker, ...
           command: |
             echo "If you're happy and you know it clap your hands!!!"
+
   deploy:
     <<: *JOB_DEFAULTS
     steps:
