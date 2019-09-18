@@ -31,7 +31,7 @@ My CV is available <a href="/cv/">here</a>.
 rotemaf@berkeley.edu
 
 **Address:** <br/>
-633 Soda Hall<br/> 
+617 Soda Hall<br/> 
 <a href="https://cs.berkeley.edu/"> Computer Science Division </a><br/> 
 <a href="https://www.berkeley.edu/">University of California at Berkeley </a> <br/> 
 Berkeley, CA 94720, U.S.A.<br/> 
