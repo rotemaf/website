@@ -2,6 +2,20 @@
 title: Selected talks
 permalink: /talks/
 ---
+**Device-independent certification of one-shot distillable entanglement** <br/>
+QCrypt 2019 (contributed talk) <br/>
+Montreal, August 27, 2019. <br/>
+[Slides](/assets/slides/QCrypt19_EC.pdf)
+
+**Device-independent quantum key distribution: security proofs and practical challenges** <br/>
+QCrypt 2019 (Tutorial) <br/>
+Montreal, August 27, 2019. <br/>
+[Slides](/assets/slides/Tutorial_QCrypt19.pdf)
+
+**Device-independent certification of entanglement measures** <br/>
+Beyond IID in information theory 2019 (contributed talk) <br/>
+Sydney, July 5, 2019. <br/>
+
 **Entropy accumulation in the context of quantum key distribution** <br/>
 IQC's workshop on security proofs in QKD (invited talk) <br/>
 Waterloo, July 5, 2018. <br/>
