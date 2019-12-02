@@ -37,7 +37,7 @@ permalink: /cv/
 
 <tr>
 <td class="date">2019</td>
-<td>ETH Medal Award for Outstanding Theses</td>
+<td>ETH Medal Award for Outstanding Doctoral Theses</td>
 </tr>
 <tr>
 <td class="date">2016,2017</td>
