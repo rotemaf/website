@@ -17,6 +17,7 @@ Presented at QCrypt16 and QIP17.
 **Device-independent certification of one-shot distillable entanglement**  <br/>
 with [Jean-Daniel Bancal][jd_web]. <br />
 New Journal of Physics, January 2019. [Published version](https://iopscience.iop.org/article/10.1088/1367-2630/aafef6). [arXiv:1712.09369](https://arxiv.org/abs/1712.09369). <br />
+Presented at QCrypt19.
 
 **Practical device-independent quantum cryptography via entropy accumulation**  <br/>
 with [Frédéric Dupuis][fred_web], [Omar Fawzi][omar_web], [Renato Renner][renato_web] and [Thomas Vidick][thomas_web]. <br />
