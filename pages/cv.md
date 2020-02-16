@@ -9,7 +9,7 @@ permalink: /cv/
 
 <td colspan="2"> <h3> Appointments </h3> </td>
 <tr>
-<td class="date">2018-Today</td>
+<td class="date">2019-Today</td>
 <td>Postdoctoral researcher in the Computer Science Division, UC Berkeley</td>
 </tr>
 
@@ -79,7 +79,20 @@ permalink: /cv/
 <td>Summer project for excellent students  <br/> Development of numerical simulations describing the chemical evolution of galaxies <br/> Under the supervision of Prof. Ariel Sternberg </td>
 </tr>
 
+<td colspan="2"> <h3> Committees </h3> </td>
 
+<tr>
+<td class="date">2020</td>
+<td>Program committee member TQC20</td>
+</tr>
+<tr>
+<td class="date">2019</td>
+<td>Program committee member QCrypt19</td>
+</tr>
+<tr>
+<td class="date">2017</td>
+<td>Program committee member QCrypt17, QIP18</td>
+</tr>
 
 <td colspan="2"> <h3> Teaching </h3> </td>
 
@@ -96,21 +109,6 @@ permalink: /cv/
 <td>Teaching assistant, Department of Computer Science, Tel-Aviv University </td>
 </tr>
 
-
-<td colspan="2"> <h3> Committees </h3> </td>
-
-<tr>
-<td class="date">2020</td>
-<td>Program committee member TQC20</td>
-</tr>
-<tr>
-<td class="date">2019</td>
-<td>Program committee member QCrypt19</td>
-</tr>
-<tr>
-<td class="date">2017</td>
-<td>Program committee member QCrypt17, QIP18</td>
-</tr>
 
 <td colspan="2"> <h3> Professional Experience </h3> </td>
 
