@@ -100,6 +100,10 @@ permalink: /cv/
 <td colspan="2"> <h3> Committees </h3> </td>
 
 <tr>
+<td class="date">2020</td>
+<td>Program committee member TQC20</td>
+</tr>
+<tr>
 <td class="date">2019</td>
 <td>Program committee member QCrypt19</td>
 </tr>
