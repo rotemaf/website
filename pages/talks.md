@@ -10,7 +10,7 @@ Montreal, August 27, 2019. <br/>
 **Device-independent quantum key distribution: security proofs and practical challenges** <br/>
 QCrypt 2019 (Tutorial) <br/>
 Montreal, August 27, 2019. <br/>
-[Slides](/assets/slides/Tutorial_QCrypt19.pdf)
+[Video](https://www.youtube.com/watch?v=5KsW0d9JeqQ); [Slides](/assets/slides/Tutorial_QCrypt19.pdf)
 
 **Device-independent certification of entanglement measures** <br/>
 Beyond IID in information theory 2019 (contributed talk) <br/>
