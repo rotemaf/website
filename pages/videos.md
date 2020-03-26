@@ -3,6 +3,10 @@ title: Recorded talks
 permalink: /videotalks/
 ---
 
+### Tutorial: Device-Independent Quantum Key Distribution: Security Proofs and Practical Challenges @ QCrypt 2019
+
+{% youtube "https://www.youtube.com/watch?v=5KsW0d9JeqQ" %}
+
 ### Device-independent randomness amplification and privatization @ QCrypt 2017
 
 {% youtube "https://www.youtube.com/watch?v=Z2lN-TlLUBE" %}
