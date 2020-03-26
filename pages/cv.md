@@ -17,7 +17,7 @@ permalink: /cv/
 
 <tr>
 <td class="date">2013-2018</td>
-<td>PhD student in the Institute of Theoretical Physics, ETH-Zurich</td>
+<td>PhD student in the Institute of Theoretical Physics, ETH Zurich</td>
 </tr>
 <tr>
 <td class="date">2011-2012</td>
@@ -97,12 +97,16 @@ permalink: /cv/
 <td colspan="2"> <h3> Teaching </h3> </td>
 
 <tr>
+<td class="date">2019-Today</td>
+<td>Supervision and assistant to undergraduate and graduate students, UC Berkeley</td>
+</tr>
+<tr>
 <td class="date">2014-2018</td>
-<td>Supervision and assistant to Master students working on research projects, ETH-Zurich</td>
+<td>Supervision and assistant to Master students working on research projects, ETH Zurich</td>
 </tr>
 <tr>
 <td class="date">2013-2017</td>
-<td>Teaching assistant, Department of Physics, ETH-Zurich</td>
+<td>Teaching assistant, Department of Physics, ETH Zurich</td>
 </tr>
 <tr>
 <td class="date">2011-2012</td>
